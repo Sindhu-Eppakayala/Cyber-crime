@@ -13,6 +13,20 @@ This is where I document my daily learning about cyber crime and cybersecurity f
 - Types of attacks
 - Classification of cyber crimes
 
+### Day 2: Cybercriminals & Cyber Crime Classifications 🆕
+- **Who are cybercriminals?**
+  - Definition and characteristics
+- **Types of cybercriminals**:
+  - Hungry for recognition
+  - Not intrested in recognition
+  - Insider threats
+- **Classification of cybercrimes**:
+  - Against individuals (cyber stalking, harassment)
+  - Against property (hacking, vandalism)
+  - Against government (cyber terrorism)
+  - Against society (pornography, gambling)
+  - Financial crimes (fraud, identity theft)
+
 ## My Goal
 To become a **SOC Analyst** (Security Operations Center) and work in threat detection and incident response.
 
